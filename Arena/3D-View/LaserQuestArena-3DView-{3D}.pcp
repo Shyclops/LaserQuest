@@ -1,5 +1,5 @@
-;Created by AutoCAD on 16/4/2015 at 10:43
-;From AutoCAD Drawing 000000004EFFD7E8
+;Created by AutoCAD on 17/4/2015 at 8:58
+;From AutoCAD Drawing 00000000401B84E8
 ;For the driver: System Printer ADI 4.3 - by Autodesk, Inc
 ;For the device:
 
@@ -18,7 +18,7 @@ OPTIMIZE_LEVEL = 0
 BEGIN_COLOR = 1
 PEN_NUMBER  = 1
 HW_LINETYPE = 0
-PEN_WEIGHT = 0.003
+PEN_WEIGHT = 0.12
 END_COLOR
 
 BEGIN_COLOR = 2
